@@ -1,0 +1,13 @@
+# Ignore visual studio folders
+/\.vs*
+/\.code
+# .idea, .intellij etc
+/\.i*
+# apple
+\.DS_Store
+# Vim crashes
+.*.suo
+
+/build
+/build-*
+/out
